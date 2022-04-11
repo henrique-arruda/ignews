@@ -45,9 +45,6 @@
     <img alt = "Web app" src = "./.github/image-04.png" width = "500px" />
 </h1>
 
-## :fire: Execução da aplicação em produção
-- Link da aplicação: https://ignews-felipenkniess.vercel.app/
-- :credit_card: para realizar a assinatura sem precisar usar seu cartão de crédito, pode utilizar esse número fake: ``` 4242 4242 4242 4242 ```
 
 ## :octocat: Execução da aplicação em desenvolvimento
 - Requisítos: Instalar [Git](https://git-scm.com/), [Node](https://nodejs.org/en/), [Yarn](https://yarnpkg.com/)
