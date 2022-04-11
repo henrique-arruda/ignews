@@ -38,6 +38,8 @@
 ## :eyes: Demonstração da aplicação
 ## :framed_picture: Imagens ##
 
+![Captura de Tela (24)](https://user-images.githubusercontent.com/72982326/162753307-9cbdc095-7460-4d72-af3b-ed4fcd98847a.png)
+
 
 ## :octocat: Execução da aplicação em desenvolvimento
 - Requisítos: Instalar [Git](https://git-scm.com/), [Node](https://nodejs.org/en/), [Yarn](https://yarnpkg.com/)
