@@ -38,13 +38,6 @@
 ## :eyes: Demonstração da aplicação
 ## :framed_picture: Imagens ##
 
-<h1 align="center">
-    <img alt = "Web app" src = "./.github/image-01.png" width = "500px" />
-    <img alt = "Web app" src = "./.github/image-02.png" width = "500px" />
-    <img alt = "Web app" src = "./.github/image-03.png" width = "500px" />
-    <img alt = "Web app" src = "./.github/image-04.png" width = "500px" />
-</h1>
-
 
 ## :octocat: Execução da aplicação em desenvolvimento
 - Requisítos: Instalar [Git](https://git-scm.com/), [Node](https://nodejs.org/en/), [Yarn](https://yarnpkg.com/)
