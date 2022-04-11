@@ -36,9 +36,14 @@
 
 
 ## :eyes: Demonstração da aplicação
-<a target="_blank" href="https://ignews-felipenkniess.vercel.app/">
-  <img src="./public/images/ignews-preview.gif" alt="License MIT">
-</a>
+## :framed_picture: Imagens ##
+
+<h1 align="center">
+    <img alt = "Web app" src = "./.github/image-01.png" width = "500px" />
+    <img alt = "Web app" src = "./.github/image-02.png" width = "500px" />
+    <img alt = "Web app" src = "./.github/image-03.png" width = "500px" />
+    <img alt = "Web app" src = "./.github/image-04.png" width = "500px" />
+</h1>
 
 ## :fire: Execução da aplicação em produção
 - Link da aplicação: https://ignews-felipenkniess.vercel.app/
